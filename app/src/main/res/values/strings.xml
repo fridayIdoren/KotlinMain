@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="test_tag_circular_progress">test_tag_circular_progress</string>
+    <string name="test_tag_weather_icon">test_tag_weather_icon</string>
+    <string name="test_tag_location_widget">test_tag_location_widget</string>
+    <string name="test_tag_cities_bottom_sheet">test_tag_cities_bottom_sheet</string>
+    <string name="error_test_tag">error_test_tag</string>
+
+
+    <plurals name="followers">
+        <item quantity="one">Follower</item>
+        <item quantity="other">Followers</item>
+    </plurals>
+</resources>
